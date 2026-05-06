@@ -13,6 +13,9 @@ Senha: adm123
 
 
 ▶️ Como executar
+
 Clone o repositório
+
 Abra o projeto na IDE Java
+
 Execute a classe main
